@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "target": "es2015",
+    "lib": ["es2015", "es2017", "dom"],
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "noEmit": true,
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "strictNullChecks": true,
+    "skipLibCheck": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "types": ["react", "react-native", "react-navigation", "react-redux"],
+    "baseUrl": "./",
+    "paths": {
+      "src/*": ["src/*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    "bin",
+  ]
+}
