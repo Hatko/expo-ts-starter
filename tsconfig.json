@@ -18,7 +18,7 @@
     "skipLibCheck": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "types": ["react", "react-native", "react-navigation", "react-redux"],
+    "types": ["react", "react-native"],
     "baseUrl": "./",
     "paths": {
       "src/*": ["src/*"]

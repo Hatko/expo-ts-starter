@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Pomodoro",
-    "slug": "pomodoro",
+    "name": "Starter",
+    "slug": "starter",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
